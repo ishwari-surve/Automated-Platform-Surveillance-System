@@ -61,9 +61,9 @@ Automated-Platform-Surveillance-System/
 ├── surveillance.py
 ├── requirements.txt
 ├── logs/
-│ ├── AutoSurveillance_2026-08-31_21-00-00.log
-│ ├── AutoSurveillance_2026-08-31_21-05-00.log
-│ └── AutoSurveillance_2026-08-31_21-10-00.log
+│ ├── SysAudit_2026-08-31_21-00-00.log
+│ ├── SysAudit_2026-08-31_21-00-00.log
+│ └── SysAudit_2026-08-31_21-00-00.log
 │
 └── README.md
 ```
@@ -112,7 +112,7 @@ Shows how to run the script.
 
 ### Start Surveillance
 ```bash
-python surveillance.py 5 Logs
+python surveillance.py 5 SystemLogs
 ```
 
 **Parameters:**
@@ -240,16 +240,15 @@ This project demonstrates:
 ---
 
 ##  Repository Highlights
-
-✔ Real-Time System Monitoring
-✔ Automated Log Generation  
-✔ Process Surveillance
-✔ Scheduler-Based Execution
-✔ Command Line Support
-✔ Timestamped Reports
-✔ Exception Handling
-✔ Python Automation Project
-✔ Production-Ready Code
+- Real-Time System Monitoring
+- Automated Log Generation  
+- Process Surveillance
+- Scheduler-Based Execution
+- Command Line Support
+- Timestamped Reports
+- Exception Handling
+- Python Automation Project
+- Production-Ready Code
 
 ---
 
