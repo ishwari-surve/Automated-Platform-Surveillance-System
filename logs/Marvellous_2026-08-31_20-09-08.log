@@ -1,0 +1,1984 @@
+--------------------------------------------------
+---- Automated Platform Surveillance System -----
+Log created at : Mon Aug 31 20:09:08 2026
+--------------------------------------------------
+
+SYSTEM REPORT
+--------------------------------------------------
+CPU Usage : 12.2 %
+RAM Usage : 53.1 %
+
+Disk Usage Report:
+C:\ -> 92.5 % used
+D:\ -> 74.7 % used
+
+Network Usage:
+Sent : 11.55 MB
+Recv : 12.07 MB
+--------------------------------------------------
+
+PROCESS REPORT
+--------------------------------------------------
+PID          : 0
+Name         : System Idle Process
+Username     : NT AUTHORITY\SYSTEM
+Status       : running
+Start Time   : 1970-01-01 05:30:00
+CPU %        : 612.5
+Memory %     : 4.8456268096901875e-05
+--------------------------------------------------
+PID          : 4
+Name         : System
+Username     : NT AUTHORITY\SYSTEM
+Status       : running
+Start Time   : 1970-01-01 05:30:00
+CPU %        : 3.1
+Memory %     : 0.04743868646686694
+--------------------------------------------------
+PID          : 176
+Name         : Registry
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:19
+CPU %        : 0.0
+Memory %     : 0.39697797638386867
+--------------------------------------------------
+PID          : 460
+Name         : python.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:06:03
+CPU %        : 61.3
+Memory %     : 0.1199050354057837
+--------------------------------------------------
+PID          : 708
+Name         : smss.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:25
+CPU %        : 0.0
+Memory %     : 0.00978816615557418
+--------------------------------------------------
+PID          : 788
+Name         : csrss.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:31
+CPU %        : 0.0
+Memory %     : 0.05223585700846022
+--------------------------------------------------
+PID          : 920
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.11084371327166304
+--------------------------------------------------
+PID          : 940
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:08:08
+CPU %        : 0.0
+Memory %     : 0.530886873269657
+--------------------------------------------------
+PID          : 1084
+Name         : wininit.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:34
+CPU %        : 0.0
+Memory %     : 0.06384113321766821
+--------------------------------------------------
+PID          : 1100
+Name         : IGCC.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:38
+CPU %        : 0.0
+Memory %     : 0.4381415761321868
+--------------------------------------------------
+PID          : 1104
+Name         : csrss.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:34
+CPU %        : 0.0
+Memory %     : 0.05347149184493122
+--------------------------------------------------
+PID          : 1176
+Name         : winlogon.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:34
+CPU %        : 0.0
+Memory %     : 0.1097776753735312
+--------------------------------------------------
+PID          : 1208
+Name         : services.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:34
+CPU %        : 0.0
+Memory %     : 0.12753689763104575
+--------------------------------------------------
+PID          : 1228
+Name         : lsass.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:36
+CPU %        : 0.0
+Memory %     : 0.19031199295058213
+--------------------------------------------------
+PID          : 1240
+Name         : msedge.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:55:28
+CPU %        : 0.0
+Memory %     : 0.9244002264845971
+--------------------------------------------------
+PID          : 1272
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:53
+CPU %        : 0.0
+Memory %     : 0.2110512756960561
+--------------------------------------------------
+PID          : 1284
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.07314473669227338
+--------------------------------------------------
+PID          : 1336
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:53
+CPU %        : 0.0
+Memory %     : 0.05550665510500109
+--------------------------------------------------
+PID          : 1368
+Name         : fontdrvhost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:36
+CPU %        : 0.0
+Memory %     : 0.03200536507800369
+--------------------------------------------------
+PID          : 1372
+Name         : fontdrvhost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:36
+CPU %        : 0.0
+Memory %     : 0.05974657856348001
+--------------------------------------------------
+PID          : 1384
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:36
+CPU %        : 0.0
+Memory %     : 0.255800639283545
+--------------------------------------------------
+PID          : 1472
+Name         : WUDFHost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:36
+CPU %        : 0.0
+Memory %     : 0.08821463607040986
+--------------------------------------------------
+PID          : 1520
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:36
+CPU %        : 0.0
+Memory %     : 0.11896013817789411
+--------------------------------------------------
+PID          : 1596
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.08470155663338447
+--------------------------------------------------
+PID          : 1604
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:54:52
+CPU %        : 0.0
+Memory %     : 0.17977275463950596
+--------------------------------------------------
+PID          : 1644
+Name         : WUDFHost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.07534949689068242
+--------------------------------------------------
+PID          : 1660
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.04835935556070807
+--------------------------------------------------
+PID          : 1680
+Name         : dwm.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 1.1062566006522698
+--------------------------------------------------
+PID          : 1756
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.09725173007048206
+--------------------------------------------------
+PID          : 1788
+Name         : WUDFHost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.18490911905777754
+--------------------------------------------------
+PID          : 1888
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.09029825559857664
+--------------------------------------------------
+PID          : 1952
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.05102445030603767
+--------------------------------------------------
+PID          : 1960
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.06510099618818767
+--------------------------------------------------
+PID          : 1972
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.06304160479406934
+--------------------------------------------------
+PID          : 1992
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.06742689705683895
+--------------------------------------------------
+PID          : 2076
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.06791145973780797
+--------------------------------------------------
+PID          : 2112
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.08806926726611916
+--------------------------------------------------
+PID          : 2200
+Name         : IntelCpHDCPSvc.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.05083062523365007
+--------------------------------------------------
+PID          : 2256
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.07389580884777536
+--------------------------------------------------
+PID          : 2280
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:08:10
+CPU %        : 0.0
+Memory %     : 0.22113017946021168
+--------------------------------------------------
+PID          : 2296
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.13497493478392017
+--------------------------------------------------
+PID          : 2308
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.13848801422094556
+--------------------------------------------------
+PID          : 2376
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:37
+CPU %        : 0.0
+Memory %     : 0.04799593354998131
+--------------------------------------------------
+PID          : 2484
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:55:37
+CPU %        : 0.0
+Memory %     : 0.06161214488521074
+--------------------------------------------------
+PID          : 2540
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.06405918642410428
+--------------------------------------------------
+PID          : 2624
+Name         : WavesSvc64.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:09
+CPU %        : 0.0
+Memory %     : 0.5975869263050424
+--------------------------------------------------
+PID          : 2676
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.0581717498503307
+--------------------------------------------------
+PID          : 2736
+Name         : RuntimeBroker.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:53
+CPU %        : 0.0
+Memory %     : 0.30733388040460013
+--------------------------------------------------
+PID          : 2816
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.12031691368460735
+--------------------------------------------------
+PID          : 2824
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:33
+CPU %        : 0.0
+Memory %     : 2.049990878107531
+--------------------------------------------------
+PID          : 2848
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.06754803772708122
+--------------------------------------------------
+PID          : 2916
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.08765738898729548
+--------------------------------------------------
+PID          : 2932
+Name         : NVDisplay.Container.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.2500827996481106
+--------------------------------------------------
+PID          : 3052
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.1574344150468342
+--------------------------------------------------
+PID          : 3084
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:54:53
+CPU %        : 0.0
+Memory %     : 0.09507119800612149
+--------------------------------------------------
+PID          : 3136
+Name         : MemCompression
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.3784192257027552
+--------------------------------------------------
+PID          : 3184
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.07508298741614945
+--------------------------------------------------
+PID          : 3228
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:39
+CPU %        : 0.0
+Memory %     : 0.10909928762017458
+--------------------------------------------------
+PID          : 3236
+Name         : igfxCUIServiceN.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.08741510764681099
+--------------------------------------------------
+PID          : 3288
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.06299314852597243
+--------------------------------------------------
+PID          : 3296
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.07341124616680635
+--------------------------------------------------
+PID          : 3376
+Name         : msedge.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:55:28
+CPU %        : 0.0
+Memory %     : 0.2784781727528951
+--------------------------------------------------
+PID          : 3392
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.15237073503070797
+--------------------------------------------------
+PID          : 3424
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.12717347562031897
+--------------------------------------------------
+PID          : 3468
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.07086729209171899
+--------------------------------------------------
+PID          : 3544
+Name         : FileCoAuth.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:03:55
+CPU %        : 0.0
+Memory %     : 0.19830727718657093
+--------------------------------------------------
+PID          : 3576
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.162958429609881
+--------------------------------------------------
+PID          : 3604
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.1818321460336243
+--------------------------------------------------
+PID          : 3636
+Name         : QHActiveDefense.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.8527091778352307
+--------------------------------------------------
+PID          : 3692
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.055991217785970125
+--------------------------------------------------
+PID          : 3704
+Name         : ctfmon.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.2043400825646352
+--------------------------------------------------
+PID          : 3712
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:38
+CPU %        : 0.0
+Memory %     : 0.16455748645707877
+--------------------------------------------------
+PID          : 4000
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:39
+CPU %        : 0.0
+Memory %     : 0.13182527735762153
+--------------------------------------------------
+PID          : 4060
+Name         : conhost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:04
+CPU %        : 0.0
+Memory %     : 0.04329567554458183
+--------------------------------------------------
+PID          : 4080
+Name         : spoolsv.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:39
+CPU %        : 0.0
+Memory %     : 0.1924925250149427
+--------------------------------------------------
+PID          : 4124
+Name         : SearchProtocolHost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 20:07:04
+CPU %        : 0.0
+Memory %     : 0.13051695811900518
+--------------------------------------------------
+PID          : 4156
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:39
+CPU %        : 0.0
+Memory %     : 0.06808105667614713
+--------------------------------------------------
+PID          : 4248
+Name         : SmartByteAnalyticsService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.04978881546956668
+--------------------------------------------------
+PID          : 4292
+Name         : armsvc.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:39
+CPU %        : 0.0
+Memory %     : 0.052017803802024164
+--------------------------------------------------
+PID          : 4348
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:39
+CPU %        : 0.0
+Memory %     : 0.37417930224427626
+--------------------------------------------------
+PID          : 4368
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:39
+CPU %        : 0.0
+Memory %     : 0.15879119055354746
+--------------------------------------------------
+PID          : 4384
+Name         : esif_uf.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:39
+CPU %        : 0.0
+Memory %     : 0.052865788493719944
+--------------------------------------------------
+PID          : 4416
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:05
+CPU %        : 0.0
+Memory %     : 0.8124904753148022
+--------------------------------------------------
+PID          : 4572
+Name         : jhi_service.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.05657269300313294
+--------------------------------------------------
+PID          : 4600
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.1689427787198484
+--------------------------------------------------
+PID          : 4624
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.09865696184529221
+--------------------------------------------------
+PID          : 4644
+Name         : IntelAudioService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.3148203738255715
+--------------------------------------------------
+PID          : 4668
+Name         : msedge.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:55:28
+CPU %        : 0.0
+Memory %     : 0.3167343964153991
+--------------------------------------------------
+PID          : 4680
+Name         : RstMwService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.06442260843483105
+--------------------------------------------------
+PID          : 4736
+Name         : RtkAudUService64.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.10958385030114359
+--------------------------------------------------
+PID          : 4756
+Name         : svchost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:53
+CPU %        : 0.0
+Memory %     : 0.14684672046766115
+--------------------------------------------------
+PID          : 4768
+Name         : SmartByteNetworkService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 1.8
+Memory %     : 0.6761103087560718
+--------------------------------------------------
+PID          : 4776
+Name         : TbtP2pShortcutService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.0504187469548264
+--------------------------------------------------
+PID          : 4784
+Name         : GoodixSessionService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.029340270332674088
+--------------------------------------------------
+PID          : 4792
+Name         : RAPSService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:42
+CPU %        : 0.0
+Memory %     : 0.12838488232274153
+--------------------------------------------------
+PID          : 4864
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.047971705415932854
+--------------------------------------------------
+PID          : 4904
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.14393934438184702
+--------------------------------------------------
+PID          : 4916
+Name         : WMIRegistrationService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.10200044434397844
+--------------------------------------------------
+PID          : 4992
+Name         : WavesAudioService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.12336965857471216
+--------------------------------------------------
+PID          : 5024
+Name         : RuntimeBroker.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:55
+CPU %        : 0.0
+Memory %     : 0.0649313992498485
+--------------------------------------------------
+PID          : 5064
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:55
+CPU %        : 0.0
+Memory %     : 0.04588808588776608
+--------------------------------------------------
+PID          : 5128
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:08
+CPU %        : 0.0
+Memory %     : 0.09742132700882122
+--------------------------------------------------
+PID          : 5188
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:40
+CPU %        : 0.0
+Memory %     : 0.07893526072985316
+--------------------------------------------------
+PID          : 5328
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:47
+CPU %        : 36.0
+Memory %     : 0.16356413296109226
+--------------------------------------------------
+PID          : 5500
+Name         : SmartByteTelemetry.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:57:49
+CPU %        : 3.3
+Memory %     : 0.09746978327691813
+--------------------------------------------------
+PID          : 5512
+Name         : WmiPrvSE.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 20:07:56
+CPU %        : 0.0
+Memory %     : 0.09252724393103413
+--------------------------------------------------
+PID          : 5552
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:55
+CPU %        : 0.0
+Memory %     : 0.0517512943274912
+--------------------------------------------------
+PID          : 5572
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:55
+CPU %        : 0.0
+Memory %     : 0.030115570622224516
+--------------------------------------------------
+PID          : 5612
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:28
+CPU %        : 0.0
+Memory %     : 0.9705063655787991
+--------------------------------------------------
+PID          : 5668
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:41
+CPU %        : 0.0
+Memory %     : 0.06403495829005583
+--------------------------------------------------
+PID          : 5692
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:55:38
+CPU %        : 0.0
+Memory %     : 0.08414430955027011
+--------------------------------------------------
+PID          : 5812
+Name         : NVDisplay.Container.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:41
+CPU %        : 0.0
+Memory %     : 0.3334275807747818
+--------------------------------------------------
+PID          : 6100
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:54:53
+CPU %        : 0.0
+Memory %     : 0.13887566436572077
+--------------------------------------------------
+PID          : 6308
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:08
+CPU %        : 0.0
+Memory %     : 0.07975901728750048
+--------------------------------------------------
+PID          : 6352
+Name         : powershell.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:05
+CPU %        : 0.0
+Memory %     : 0.580699916873272
+--------------------------------------------------
+PID          : 6416
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:04
+CPU %        : 0.0
+Memory %     : 0.5597668090554105
+--------------------------------------------------
+PID          : 6424
+Name         : WmiPrvSE.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:42
+CPU %        : 0.0
+Memory %     : 0.08479846916957828
+--------------------------------------------------
+PID          : 6444
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:55
+CPU %        : 0.0
+Memory %     : 0.016426674884849737
+--------------------------------------------------
+PID          : 6456
+Name         : RAPS.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:42
+CPU %        : 0.0
+Memory %     : 0.11704611558806648
+--------------------------------------------------
+PID          : 6492
+Name         : conhost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:42
+CPU %        : 0.0
+Memory %     : 0.06611857781822261
+--------------------------------------------------
+PID          : 6832
+Name         : OpenConsole.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:04:07
+CPU %        : 0.0
+Memory %     : 0.0902740274645282
+--------------------------------------------------
+PID          : 6960
+Name         : QHWatchdog.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:47
+CPU %        : 0.0
+Memory %     : 0.04130896855260885
+--------------------------------------------------
+PID          : 6968
+Name         : dptf_helper.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:44
+CPU %        : 3.1
+Memory %     : 0.04809284608617511
+--------------------------------------------------
+PID          : 6980
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:35
+CPU %        : 0.0
+Memory %     : 0.14294599088586052
+--------------------------------------------------
+PID          : 7068
+Name         : CastSrv.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:08
+CPU %        : 0.0
+Memory %     : 0.059165103346317194
+--------------------------------------------------
+PID          : 7104
+Name         : unsecapp.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:10
+CPU %        : 0.0
+Memory %     : 0.06161214488521074
+--------------------------------------------------
+PID          : 7160
+Name         : RtkAudUService64.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:44
+CPU %        : 0.0
+Memory %     : 0.08215760255829713
+--------------------------------------------------
+PID          : 7304
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.06476180231150935
+--------------------------------------------------
+PID          : 7320
+Name         : IntelGraphicsSoftware.Service.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.2734144927367688
+--------------------------------------------------
+PID          : 7456
+Name         : AggregatorHost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:51
+CPU %        : 0.0
+Memory %     : 0.08722128257442338
+--------------------------------------------------
+PID          : 7556
+Name         : sihost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.31317286071027683
+--------------------------------------------------
+PID          : 7584
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.05461021414520841
+--------------------------------------------------
+PID          : 7592
+Name         : svchost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.20727168678449778
+--------------------------------------------------
+PID          : 7720
+Name         : svchost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.07282977094964352
+--------------------------------------------------
+PID          : 7772
+Name         : igfxEMN.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.11442947711083379
+--------------------------------------------------
+PID          : 7784
+Name         : svchost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.25931371872057035
+--------------------------------------------------
+PID          : 7844
+Name         : wlanext.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.05620927099240618
+--------------------------------------------------
+PID          : 7872
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.16446057392088498
+--------------------------------------------------
+PID          : 7884
+Name         : taskhostw.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.09262415646722794
+--------------------------------------------------
+PID          : 7980
+Name         : conhost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:51
+CPU %        : 0.0
+Memory %     : 0.03922534902444207
+--------------------------------------------------
+PID          : 7984
+Name         : dllhost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:48
+CPU %        : 0.0
+Memory %     : 0.12693119427983446
+--------------------------------------------------
+PID          : 8072
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:51
+CPU %        : 0.0
+Memory %     : 0.06403495829005583
+--------------------------------------------------
+PID          : 8128
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:10
+CPU %        : 1.4
+Memory %     : 2.797428813502242
+--------------------------------------------------
+PID          : 8284
+Name         : DataExchangeHost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:12
+CPU %        : 0.0
+Memory %     : 0.19755620503106894
+--------------------------------------------------
+PID          : 8312
+Name         : explorer.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:49
+CPU %        : 4.3
+Memory %     : 2.8412332798618416
+--------------------------------------------------
+PID          : 8420
+Name         : CrossDeviceService.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:51
+CPU %        : 0.0
+Memory %     : 0.5837284336293285
+--------------------------------------------------
+PID          : 8444
+Name         : ShellHost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:50
+CPU %        : 0.0
+Memory %     : 0.4038345383195802
+--------------------------------------------------
+PID          : 8628
+Name         : msedge.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:55:28
+CPU %        : 0.0
+Memory %     : 0.09926266519650348
+--------------------------------------------------
+PID          : 8748
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:50
+CPU %        : 0.0
+Memory %     : 0.13657399163111794
+--------------------------------------------------
+PID          : 8760
+Name         : PresentMonService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:51
+CPU %        : 0.0
+Memory %     : 0.09877810251553447
+--------------------------------------------------
+PID          : 8784
+Name         : AppVShNotify.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:10
+CPU %        : 0.0
+Memory %     : 0.07169104864936632
+--------------------------------------------------
+PID          : 8792
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:50
+CPU %        : 0.0
+Memory %     : 0.07379889631158155
+--------------------------------------------------
+PID          : 8900
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:50
+CPU %        : 0.0
+Memory %     : 0.09885078691767983
+--------------------------------------------------
+PID          : 8968
+Name         : ApplicationFrameHost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:55:37
+CPU %        : 0.0
+Memory %     : 0.41190250695771435
+--------------------------------------------------
+PID          : 9136
+Name         : WavesSysSvc64.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:51
+CPU %        : 0.0
+Memory %     : 0.39751099533293455
+--------------------------------------------------
+PID          : 9144
+Name         : CrossDeviceResume.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:51
+CPU %        : 0.0
+Memory %     : 0.44780860161751873
+--------------------------------------------------
+PID          : 9180
+Name         : SystemSettings.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : stopped
+Start Time   : 2026-08-31 19:55:37
+CPU %        : 0.0
+Memory %     : 0.01591788406983227
+--------------------------------------------------
+PID          : 9296
+Name         : OfficeClickToRun.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:52
+CPU %        : 0.0
+Memory %     : 0.4784087349207122
+--------------------------------------------------
+PID          : 9560
+Name         : svchost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:52
+CPU %        : 0.0
+Memory %     : 0.26929570994853214
+--------------------------------------------------
+PID          : 9724
+Name         : PhoneExperienceHost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:01
+CPU %        : 0.0
+Memory %     : 1.0493204856384102
+--------------------------------------------------
+PID          : 9732
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:08:08
+CPU %        : 0.0
+Memory %     : 0.4015086374509289
+--------------------------------------------------
+PID          : 9752
+Name         : Widgets.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:53
+CPU %        : 0.0
+Memory %     : 0.4294194478747444
+--------------------------------------------------
+PID          : 9996
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:29
+CPU %        : 0.0
+Memory %     : 0.3636642920672486
+--------------------------------------------------
+PID          : 10016
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:54
+CPU %        : 0.0
+Memory %     : 0.8190078433738355
+--------------------------------------------------
+PID          : 10036
+Name         : Discord.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:25
+CPU %        : 0.0
+Memory %     : 0.5557449388033676
+--------------------------------------------------
+PID          : 10140
+Name         : StartMenuExperienceHost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:53
+CPU %        : 0.0
+Memory %     : 1.1167958389633459
+--------------------------------------------------
+PID          : 10164
+Name         : SearchHost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:53
+CPU %        : 0.0
+Memory %     : 0.8852233337282519
+--------------------------------------------------
+PID          : 10212
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:01
+CPU %        : 0.0
+Memory %     : 0.8490507295939146
+--------------------------------------------------
+PID          : 10320
+Name         : ShellExperienceHost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : stopped
+Start Time   : 2026-08-31 19:58:18
+CPU %        : 0.0
+Memory %     : 0.5928139838974975
+--------------------------------------------------
+PID          : 10392
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:54
+CPU %        : 0.0
+Memory %     : 0.1135330361510411
+--------------------------------------------------
+PID          : 10472
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:04
+CPU %        : 0.0
+Memory %     : 1.4373582805584004
+--------------------------------------------------
+PID          : 10480
+Name         : WidgetService.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:54
+CPU %        : 0.0
+Memory %     : 0.17393377433382928
+--------------------------------------------------
+PID          : 10888
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:55
+CPU %        : 0.0
+Memory %     : 0.08116424906231064
+--------------------------------------------------
+PID          : 10960
+Name         : RuntimeBroker.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:54
+CPU %        : 0.0
+Memory %     : 0.08918376143234791
+--------------------------------------------------
+PID          : 11092
+Name         : msedge.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:55:28
+CPU %        : 0.0
+Memory %     : 0.15547193618890967
+--------------------------------------------------
+PID          : 11372
+Name         : LockApp.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : stopped
+Start Time   : 2026-08-31 19:52:55
+CPU %        : 0.0
+Memory %     : 0.5352963936664751
+--------------------------------------------------
+PID          : 11588
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:55
+CPU %        : 0.0
+Memory %     : 0.432835614775576
+--------------------------------------------------
+PID          : 11636
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:55
+CPU %        : 0.0
+Memory %     : 0.25630943009856244
+--------------------------------------------------
+PID          : 11656
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:52:55
+CPU %        : 0.0
+Memory %     : 0.047172176992333975
+--------------------------------------------------
+PID          : 11780
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:56
+CPU %        : 0.0
+Memory %     : 0.13701009804399006
+--------------------------------------------------
+PID          : 11852
+Name         : RuntimeBroker.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:56
+CPU %        : 0.0
+Memory %     : 0.2650800146241017
+--------------------------------------------------
+PID          : 12060
+Name         : svchost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:56
+CPU %        : 0.0
+Memory %     : 0.10047407189892603
+--------------------------------------------------
+PID          : 12068
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:52:56
+CPU %        : 0.0
+Memory %     : 0.6105974342890605
+--------------------------------------------------
+PID          : 12080
+Name         : TextInputHost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:03
+CPU %        : 0.0
+Memory %     : 0.6084653584927968
+--------------------------------------------------
+PID          : 12100
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:54:52
+CPU %        : 0.0
+Memory %     : 0.05572470831143716
+--------------------------------------------------
+PID          : 12572
+Name         : SecurityHealthService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:03
+CPU %        : 0.0
+Memory %     : 0.1704206948968039
+--------------------------------------------------
+PID          : 12636
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:28
+CPU %        : 0.0
+Memory %     : 0.15939689390475872
+--------------------------------------------------
+PID          : 12644
+Name         : cmd.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:04:07
+CPU %        : 0.0
+Memory %     : 0.05155746925510359
+--------------------------------------------------
+PID          : 12700
+Name         : SecurityHealthSystray.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:03
+CPU %        : 0.0
+Memory %     : 0.08378088753954334
+--------------------------------------------------
+PID          : 12788
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:00
+CPU %        : 0.0
+Memory %     : 0.12925709514848574
+--------------------------------------------------
+PID          : 12800
+Name         : SearchIndexer.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:41
+CPU %        : 0.0
+Memory %     : 0.16351567669299538
+--------------------------------------------------
+PID          : 13280
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:04
+CPU %        : 0.0
+Memory %     : 0.6097009933292679
+--------------------------------------------------
+PID          : 13300
+Name         : RtkAudUService64.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:06
+CPU %        : 1.3
+Memory %     : 0.11641618410280677
+--------------------------------------------------
+PID          : 13504
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:02
+CPU %        : 0.0
+Memory %     : 0.8048828412235886
+--------------------------------------------------
+PID          : 13648
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 20:07:56
+CPU %        : 0.0
+Memory %     : 0.15721636184039814
+--------------------------------------------------
+PID          : 13836
+Name         : powershell.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:03
+CPU %        : 0.0
+Memory %     : 0.5758300619295335
+--------------------------------------------------
+PID          : 13860
+Name         : WindowsTerminal.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:04:07
+CPU %        : 0.0
+Memory %     : 0.7325618610889625
+--------------------------------------------------
+PID          : 14028
+Name         : conhost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:29
+CPU %        : 0.0
+Memory %     : 0.05938315655275325
+--------------------------------------------------
+PID          : 14164
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:35
+CPU %        : 0.0
+Memory %     : 0.46348420434686644
+--------------------------------------------------
+PID          : 14460
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:28
+CPU %        : 0.0
+Memory %     : 0.5650243141439243
+--------------------------------------------------
+PID          : 14480
+Name         : WmiPrvSE.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:56:39
+CPU %        : 0.0
+Memory %     : 0.07864452312127175
+--------------------------------------------------
+PID          : 14496
+Name         : UserOOBEBroker.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:55:38
+CPU %        : 0.0
+Memory %     : 0.07297513975393422
+--------------------------------------------------
+PID          : 14540
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:25
+CPU %        : 0.0
+Memory %     : 0.09793011782383869
+--------------------------------------------------
+PID          : 14576
+Name         : OneDrive.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:13
+CPU %        : 0.0
+Memory %     : 0.5436793280472391
+--------------------------------------------------
+PID          : 14724
+Name         : cmd.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:29
+CPU %        : 0.0
+Memory %     : 0.046421104836832
+--------------------------------------------------
+PID          : 14752
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:55:38
+CPU %        : 0.0
+Memory %     : 0.10636150847269962
+--------------------------------------------------
+PID          : 14904
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:17
+CPU %        : 0.0
+Memory %     : 0.11721571252640564
+--------------------------------------------------
+PID          : 15016
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:15
+CPU %        : 0.0
+Memory %     : 0.08714859817227802
+--------------------------------------------------
+PID          : 15228
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:28
+CPU %        : 0.0
+Memory %     : 0.35489370754170935
+--------------------------------------------------
+PID          : 15460
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 20:02:29
+CPU %        : 0.0
+Memory %     : 0.06451952097102485
+--------------------------------------------------
+PID          : 15504
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:05
+CPU %        : 1.2
+Memory %     : 0.9949283246996378
+--------------------------------------------------
+PID          : 15548
+Name         : Discord.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:24
+CPU %        : 0.0
+Memory %     : 1.9304734928465221
+--------------------------------------------------
+PID          : 15624
+Name         : svchost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:55:38
+CPU %        : 0.0
+Memory %     : 0.09182462804362905
+--------------------------------------------------
+PID          : 15764
+Name         : conhost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:04:07
+CPU %        : 0.0
+Memory %     : 0.062266304504518914
+--------------------------------------------------
+PID          : 15828
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:58:57
+CPU %        : 0.0
+Memory %     : 0.11644041223685521
+--------------------------------------------------
+PID          : 15896
+Name         : pet.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:04
+CPU %        : 0.0
+Memory %     : 0.053447263710882764
+--------------------------------------------------
+PID          : 15972
+Name         : OpenConsole.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:05
+CPU %        : 0.0
+Memory %     : 0.0712064859683973
+--------------------------------------------------
+PID          : 16012
+Name         : Discord.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:22
+CPU %        : 0.0
+Memory %     : 0.8965863285969754
+--------------------------------------------------
+PID          : 16092
+Name         : Discord.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:22
+CPU %        : 0.0
+Memory %     : 0.20506692658608874
+--------------------------------------------------
+PID          : 16208
+Name         : Discord.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:22
+CPU %        : 0.0
+Memory %     : 0.7632831350623983
+--------------------------------------------------
+PID          : 16216
+Name         : Discord.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:22
+CPU %        : 0.0
+Memory %     : 0.3593274560725758
+--------------------------------------------------
+PID          : 16672
+Name         : DellSupportAssistRemedationService.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:54:51
+CPU %        : 7.1
+Memory %     : 0.638241735238343
+--------------------------------------------------
+PID          : 16692
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:04
+CPU %        : 2.4
+Memory %     : 2.2067469054010083
+--------------------------------------------------
+PID          : 16984
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:32
+CPU %        : 0.0
+Memory %     : 0.3268617564476516
+--------------------------------------------------
+PID          : 16996
+Name         : ollama.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:40
+CPU %        : 0.0
+Memory %     : 0.1827528151274654
+--------------------------------------------------
+PID          : 17004
+Name         : conhost.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:40
+CPU %        : 0.0
+Memory %     : 0.05897127827392958
+--------------------------------------------------
+PID          : 17312
+Name         : RuntimeBroker.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:08:41
+CPU %        : 0.0
+Memory %     : 0.09322985981843922
+--------------------------------------------------
+PID          : 17436
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:55
+CPU %        : 0.0
+Memory %     : 0.08254525270307235
+--------------------------------------------------
+PID          : 17440
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:54:53
+CPU %        : 0.0
+Memory %     : 0.060473422584933545
+--------------------------------------------------
+PID          : 17604
+Name         : ollama app.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:39
+CPU %        : 0.0
+Memory %     : 0.1603902474007452
+--------------------------------------------------
+PID          : 18016
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:06
+CPU %        : 0.0
+Memory %     : 1.282661644659041
+--------------------------------------------------
+PID          : 18124
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:02
+CPU %        : 0.0
+Memory %     : 1.5767911920072355
+--------------------------------------------------
+PID          : 18208
+Name         : QHSafeTray.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:39
+CPU %        : 0.0
+Memory %     : 0.4500133618159277
+--------------------------------------------------
+PID          : 18224
+Name         : IGCCTray.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:37
+CPU %        : 0.0
+Memory %     : 0.5025641845670178
+--------------------------------------------------
+PID          : 18232
+Name         : RuntimeBroker.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:58:18
+CPU %        : 0.0
+Memory %     : 0.16477553966351483
+--------------------------------------------------
+PID          : 18304
+Name         : msedgewebview2.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:55
+CPU %        : 0.0
+Memory %     : 0.10687029928771709
+--------------------------------------------------
+PID          : 18372
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:28
+CPU %        : 2.3
+Memory %     : 1.713922430721468
+--------------------------------------------------
+PID          : 18704
+Name         : Code.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:01:04
+CPU %        : 0.0
+Memory %     : 1.3585926167668863
+--------------------------------------------------
+PID          : 18856
+Name         : chrome.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:28
+CPU %        : 0.0
+Memory %     : 0.07782076656362441
+--------------------------------------------------
+PID          : 18896
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 20:08:55
+CPU %        : 0.0
+Memory %     : 0.09654911418307699
+--------------------------------------------------
+PID          : 18996
+Name         : 360webshield.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:29
+CPU %        : 0.0
+Memory %     : 0.11433256457463997
+--------------------------------------------------
+PID          : 19028
+Name         : OpenConsole.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 20:02:03
+CPU %        : 0.0
+Memory %     : 0.0711095734322035
+--------------------------------------------------
+PID          : 19072
+Name         : svchost.exe
+Username     : None
+Status       : running
+Start Time   : 2026-08-31 19:53:35
+CPU %        : 0.0
+Memory %     : 0.04940116532479147
+--------------------------------------------------
+PID          : 19228
+Name         : AdobeCollabSync.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:36
+CPU %        : 0.0
+Memory %     : 0.16184393544365225
+--------------------------------------------------
+PID          : 19288
+Name         : AdobeCollabSync.exe
+Username     : DESKTOP-S2DLUF7\Ishwari Surve
+Status       : running
+Start Time   : 2026-08-31 19:53:36
+CPU %        : 0.0
+Memory %     : 0.509614571575117
+--------------------------------------------------
+
+End of Log File
+--------------------------------------------------
