@@ -255,9 +255,3 @@ This project demonstrates:
 ##  License
 
 This project is developed for **educational, learning, and portfolio purposes**.
-
-
-
-
-
-
